@@ -4,7 +4,7 @@ Technologies used:
 1. HyperText Markup Language(HTML)
 2. Cascading Style Sheets(CSS)
 3. JavaScript
-4. ReactjJ
+4. ReactJS
 
 Description: 
 
@@ -18,5 +18,3 @@ Preview: In http://localhost:3000/, you will see the following output:
 
 ![demo](https://user-images.githubusercontent.com/63997049/161900178-5c16ec5f-3c40-4691-bb6c-2c1864c31e02.gif)
 
-
-Note: I also like to write articles, I have published this project. 
